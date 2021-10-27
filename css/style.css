@@ -1,0 +1,31 @@
+body{
+    background-color: #f5f5dd;
+}
+
+.square{
+    height: 120px;
+    width: 120px;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.pierwszy{
+    opacity: 100%;
+   
+}
+
+.drugi{
+    opacity: 80%;
+    
+}
+.trzeci{
+    opacity: 60%;
+
+}
+.czwarty{
+    opacity: 40%;
+    
+}
